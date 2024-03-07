@@ -140,6 +140,6 @@ body {
     }
 
     .apresentacao__imagem {
-        width: 80%;
+        width: auto;
     }
 }
